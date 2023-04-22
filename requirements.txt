@@ -4,4 +4,4 @@ pydantic
 pickle5
 scikit-learn
 numpy
-xgboost
+xgboost==1.5.0
